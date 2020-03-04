@@ -1,0 +1,1 @@
+This program looks at the three major features in object-oriented programming: encapsulation, inheritance and polymorphism
